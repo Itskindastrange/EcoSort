@@ -42,10 +42,10 @@ The CNN model underwent training for 35 epochs. The training process entails fee
 
 The following metrics were obtained during the validation process:
 
-* Loss: 0.7212
-* Accuracy: 0.7692
-* Validation Loss: 1.0031
-* Validation Accuracy: 0.7166
+* Loss: 0.6079
+* Accuracy: 0.8003
+* Validation Loss: 0.8928
+* Validation Accuracy: 0.7544
 
 **Tech Stack**
 
